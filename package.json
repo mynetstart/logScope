@@ -1,0 +1,9 @@
+{
+  "name": "mns-logscope",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Browser-local dashboard for IIS W3C access logs",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs"
+  }
+}
