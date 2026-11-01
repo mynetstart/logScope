@@ -1,5 +1,6 @@
 .local/
 .openai/
+.vercel/
 node_modules/
 artifacts/
 *.log
